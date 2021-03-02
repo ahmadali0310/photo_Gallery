@@ -121,3 +121,9 @@
 .item.h4 {
   grid-column: span 4;
 }
+
+@media screen and (max-width: 718px) {
+  .inner {
+    width: 100%;
+  }
+}
